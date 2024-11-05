@@ -1,3 +1,6 @@
+> [!WARNING]
+> This integration has been moved to [dagster-io/community-integrations](https://github.com/dagster-io/community-integrations/tree/main/libraries/dagster-hightouch). Please open new pull requests and issues in that repository instead. Thank you!
+
 [![Pypi Publish](https://github.com/hightouchio/dagster-hightouch/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/hightouchio/dagster-hightouch/actions/workflows/pypi-publish.yml)
 
 ## Dagster-Hightouch
