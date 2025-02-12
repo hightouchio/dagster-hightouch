@@ -1,3 +1,5 @@
+This repository has been archived and continued development has moved to [Dagster's Community Integrations repo](https://github.com/dagster-io/community-integrations/tree/main/libraries/dagster-hightouch).
+
 [![Pypi Publish](https://github.com/hightouchio/dagster-hightouch/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/hightouchio/dagster-hightouch/actions/workflows/pypi-publish.yml)
 
 ## Dagster-Hightouch
